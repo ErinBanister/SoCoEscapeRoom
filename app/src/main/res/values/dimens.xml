@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--left padding for information parts-->
+    <dimen name="viewPaddingHorizontal">12dp</dimen>
+    <!--padding for image-->
+    <dimen name="viewPaddingVertical">6dp</dimen>
+</resources>

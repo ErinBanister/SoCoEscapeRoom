@@ -1,0 +1,21 @@
+<resources>
+    <!-- Application title -->
+    <string name="app_name">SOCO ESCAPE ROOM</string>
+    <!--Phone Number -->
+    <string name="phone">(719) 717&#8211;0658</string>
+    <!--Address-->
+    <string name="address">503 W 4th Street, Suite A, Pueblo, CO 81003</string>
+    <!--Description-->
+    <string name="description">WE\'RE LOCKING YOU IN. &#13;&#10;YOU HAVE ONE HOUR TO ESCAPE. &#13;&#10;READY FOR THE CHALLENGE? </string>
+    <!--Small Description Text-->
+    <string name="easy">IT WON\'T BE EASY.</string>
+    <!--Hours Info -->
+    <string name="hours_info">Bookings by Appointment Only</string>
+    <!--Hours Weekend -->
+    <string name="hours_weekend">4&#8211;11pm</string>
+    <!--Hours Weekday -->
+    <string name="hours_weekday">4&#8211;8pm</string>
+    <!--URL-->
+    <string name="URL">https://www.socoescaperoom.com/</string>
+
+</resources>
